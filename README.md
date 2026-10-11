@@ -4,7 +4,7 @@ A simple, clean, and user-friendly note-taking application built using HTML, CSS
 
  🚀 Live Demo
 
-file:///E:/Ritika/supersimpledev/quick%20note/main.html
+file:///E:/Ritika/supersimpledev/quick%20note/index.html
 
  ✨ Features
 
