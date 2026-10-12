@@ -3,8 +3,8 @@
 A simple, clean, and user-friendly note-taking application built using HTML, CSS, and JavaScript. Quick Note helps users write and manage notes easily through a simple interface.
 
  🚀 Live Demo
-
-file:///E:/Ritika/supersimpledev/quick%20note/index.html
+ 
+https://ritika-rai913.github.io/Quick-Notes/
 
  ✨ Features
 
